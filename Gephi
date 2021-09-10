@@ -1,0 +1,43 @@
+	
+type	"network"
+version	"1.0"
+data	"data.json"
+logo	
+file	"https://th.bing.com/th/id/OIP.rZp1q-VWZ2YEE_vgonb-jAAAAA?pid=ImgDet&rs=1"
+link	""
+text	"Gephi"
+text	
+more	"This graph shows notable events involving Aboriginal and Torres Strait Islander performers between the years 1935 to 1975, the long assimilation period. Throughout this period, Aboriginal and Torres Strait Islander people responded innovatively and insistently to assimilationist policy in order to maintain, enliven and develop their culture, its diversity and demand recognition. Underlying these events is a rich but largely hidden and dispersed history of ongoing Aboriginal cultural engagement, political mobilisation, and reclamation through performance.\n\nTo explore this graph you can select an event and see who the performers were. You can also select a performer and read what events they were involved in. The larger the ‘node’ the more performers were involved. \n\nQuestions, concerns, suggested corrections, additions or would like more information?  Email us at: reclaimingperformance@gmail.com. This is an ongoing project and as additional information becomes available the graph will be updated."
+intro	"Network Map of Aboriginal and Torres Strait Islander Performances bettween 1935 and 1975"
+title	"Network Map"
+legend	
+edgeLabel	"Performances"
+colorLabel	"Interactions"
+nodeLabel	"People and Events"
+features	
+search	true
+groupSelectorAttribute	"name"
+hoverBehavior	"dim"
+informationPanel	
+groupByEdgeDirection	false
+imageAttribute	"Image"
+sigma	
+drawingProperties	
+defaultEdgeType	"curve"
+defaultHoverLabelBGColor	"#002147"
+defaultLabelBGColor	"#ddd"
+activeFontStyle	"bold"
+defaultLabelColor	"#000"
+labelThreshold	10
+defaultLabelHoverColor	"#fff"
+fontStyle	"bold"
+hoverFontStyle	"bold"
+defaultLabelSize	14
+graphProperties	
+maxEdgeSize	0.5
+minEdgeSize	0.2
+minNodeSize	1
+maxNodeSize	7
+mouseProperties	
+maxRatio	20
+minRatio	0.75
